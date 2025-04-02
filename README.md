@@ -4,7 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of `anApp` is to demonstrate the issue with the `use_`/`_build` function workflow.
+The goal of `anApp` is to demonstrate the [issue](https://github.com/devOpifex/leprechaun/issues/17) with the `use_`/`_build` function workflow.
 
 ## Installation
 
